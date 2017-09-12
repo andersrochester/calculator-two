@@ -1,0 +1,22 @@
+{
+  "name": "calculator-two",
+  "version": "1.0.0",
+  "description": "Simple calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersrochester/calculator-two.git"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "Anders Rochester",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andersrochester/calculator-two/issues"
+  },
+  "homepage": "https://github.com/andersrochester/calculator-two#readme"
+}
